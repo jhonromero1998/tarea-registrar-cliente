@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/web/TemplateVeterinaria.xhtml</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/entidades/Atencion.hbm.xml</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/managedBean/MascotaBean.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/web/ClienteTemplate.xhtml</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/dao/PersonalDao.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/dao/ClienteDao.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/entidades/Mascotaporcliente.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/web/welcomePrimefaces.xhtml</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/entidades/Cliente.hbm.xml</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/web/WEB-INF/web.xml</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/managedBean/ClienteBean.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/web/RPersonal.xhtml</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/hibernate.cfg.xml</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/entidades/Cliente.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/entidades/Personal.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/prueba/ejemplo6.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/entidades/Atencion.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/utilitarios/HibernateUtil.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/entidades/MascotaporclienteId.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/web/RMascota.xhtml</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/web/RCliente.xhtml</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/managedBean/PersonalBean.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/dao/MascotaDao.java</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/web/resources/css/default.css</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/web/resources/css/cssLayout.css</file>
+            <file>file:/E:/VI%20Ciclo/new%20profe/VeterinariaMascota/src/java/hibernate.reveng.xml</file>
+        </group>
+    </open-files>
+</project-private>
